@@ -1,0 +1,8 @@
+main: io.wifi.cmdshout.App
+api: ""
+name: cmdshout
+version: 1.0.0
+commands:
+   sshout:
+      description: Shout a message
+      usage: /<command> <Messages>
